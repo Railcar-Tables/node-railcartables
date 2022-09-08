@@ -1,2 +1,2 @@
 # RailcarTables for Node.js
-## Node.js wrapper for Railcar Tables API
+![npm bundle size](https://img.shields.io/bundlephobia/min/railcartables)![npm](https://img.shields.io/npm/dw/railcartables)
