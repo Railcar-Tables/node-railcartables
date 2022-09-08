@@ -26,9 +26,11 @@
 		"url": "https://github.com/Railcar-Tables/node-railcartables/issues"
 	},
 	"homepage": "https://github.com/Railcar-Tables/node-railcartables#readme",
-	"dependencies": {
+	"devDependencies": {
 		"dotenv": "^16.0.2",
-		"mocha": "^10.0.0",
+		"mocha": "^10.0.0"
+	},
+	"dependencies": {
 		"node-fetch": "^3.2.10"
 	}
 }
