@@ -33,7 +33,7 @@ import RailcarTables from 'railcarTables';
   const gaugeOutage = await RCT.getOutage({
       reportingMark: "TILX",
       carNumber: "350123",
-      level: 85
+      levelInInches: 85
   });
 
   console.log(gaugeOutage);
